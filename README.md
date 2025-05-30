@@ -1,5 +1,5 @@
 ## About me 👋
-**RedcondorAI/RedcondorAI**
+**RedcondorAI**
 
 
 🔭 Currently Working On
