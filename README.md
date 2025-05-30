@@ -1,8 +1,5 @@
 ## About me 👋
-
-
-**RedcondorAI/RedcondorAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**RedcondorAI/RedcondorAI**
 
 
 🔭 Currently Working On
