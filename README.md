@@ -33,6 +33,10 @@ Research-to-deployment workflows
 😄 Pronouns
 He/Him
 
-⚡ Fun Fact
-I once ran an entire ML pipeline for NYC taxi data... in the cloud... fully automated. 💡
+⚡ Fun Fact  
+I once ran an entire ML pipeline for Citi Bike data... in the cloud... fully automated. 💡  
+
+- 🧭 [Monitoring App](https://citibike-predictions-repo-vf7vmncg8qzw3meau7m3uk.streamlit.app/)  
+- 📈 [Prediction App](https://citibike-predictions-repo-6zyzt3rw6uiqk6eacxxyem.streamlit.app/)
+
 
